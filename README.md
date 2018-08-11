@@ -16,10 +16,12 @@ In this repository, I am going to show how to run tensorflow object detection mo
             
 
 ## Step 2:  
-            [Clone](https://github.com/tensorflow/models/) the tensorflow repository from github
+
+[Clone](https://github.com/tensorflow/models/) the tensorflow repository from github
 
 ## Step 3:  
-            [Clone my repository](https://github.com/12345k/tensorflow-real-time-detection) and save it in seprate folder
+
+[Clone my repository](https://github.com/12345k/tensorflow-real-time-detection) and save it in seprate folder
 
 ## Step 4:  
             Now copy the content inside protoc-3.4.0-win32 in my repository and paste it inside the model folder from tensorflow                     repository
